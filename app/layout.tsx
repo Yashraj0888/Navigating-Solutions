@@ -7,7 +7,7 @@ import { ThemeToggle } from '@/components/theme-toggle';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Modern Landing Page',
+  title: 'Landing Page',
   description: 'A beautiful and responsive landing page built with Next.js and Tailwind CSS',
 };
 

@@ -9,13 +9,13 @@ export function SolutionsSection() {
     {
       icon: Code2,
       title: "Normal Greetings",
-      description: "Enter your name to generate simple and personalized greetings for daily use.",
+      description: "Enter your name to generate simple and personalized greetings.",
       link: "https://yashraj_greeting.bootcamp.aganitha.ai/", // Link to algorithm solutions
     },
     {
       icon: FileCode2,
       title: "Kaminari-Style Greetings",
-      description: "Type your name to create energetic and dynamic greetings inspired by Kaminari.",
+      description: "Type your name to create greetings inspired by Kaminari.",
       link: "https://yashraj_kaminari.bootcamp.aganitha.ai/", // Link to data structures solutions
     },
     {
